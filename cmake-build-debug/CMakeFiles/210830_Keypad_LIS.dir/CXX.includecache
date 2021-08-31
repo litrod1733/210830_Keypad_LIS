@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isaac/FORE_HEAD/2021.08.30/210830_Keypad_LIS/main.cpp
+string
+-
+iostream
+-
+vector
+-
+cmath
+-
+
